@@ -1,0 +1,4 @@
+#Wed Jan 03 18:49:45 WAT 2024
+base.0=D\:\\Flutter\\flutter_beginer\\Readandwritefiles\\readandwritefiles\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
